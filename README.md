@@ -54,6 +54,8 @@ The codes are written in Python using cross-platform modules to enable seamless 
 
     git clone https://github.com/nkymut/ml4d.git
     cd ml4d/week1_pyglet
+    #to run remotely via ssh 
+    export DISPLAY=:0.0
     python3 01helloWorld.py
 ![](https://d2mxuefqeaa7sj.cloudfront.net/s_9842357C3BAF1E4621B39662A8FD188EB03D41C268175FE55C053D8FF415A3A6_1534594423320_image.png)
 
